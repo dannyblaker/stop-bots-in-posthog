@@ -16,8 +16,6 @@ It detects common web crawlers, scrapers, and bots based on the browser’s `Use
   - The bot is then opted out of all further tracking (`posthog.opt_out_capturing()`).
 - If the visitor is a normal user, tracking continues as usual.
 
-This ensures your analytics data is cleaner and more representative of real human behavior. 
-
 
 ## Usage
 
