@@ -6,6 +6,12 @@ It detects common web crawlers, scrapers, and bots based on the browser’s `Use
 
 **You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
 
+---
+Bots are non-human website visitors, also known as "crawlers", which gather information for third-party services.
+![Bots Example](bots-example.jpg)
+
+Posthog is a product analytics tool:
+![Posthog Demo](posthog-demo.png)
 
 ## How It Works
 
@@ -29,3 +35,5 @@ It detects common web crawlers, scrapers, and bots based on the browser’s `Use
     ```
     import './remove_bots_posthog.js';
     ```
+
+
